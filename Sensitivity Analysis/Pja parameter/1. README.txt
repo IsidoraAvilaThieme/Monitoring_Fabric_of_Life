@@ -1,0 +1,13 @@
+This file contains the script and data used to run the sensitivity analysis of the Pja parameter value. 
+All necessary resources are included in this folder for convenience.
+
+The different Pja values used to do the sensitivity analysis are on "RandomPja2.mat" file
+
+To run calculate the Pja values:
+1. Run "sensitivite"
+
+
+To run sensitivity analysis follow this steps:
+1. Run "webdriver_torun_Before"
+2. Run webdriver_torun_After"
+	

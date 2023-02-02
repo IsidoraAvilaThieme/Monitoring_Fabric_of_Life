@@ -1,0 +1,13 @@
+This file contains the script and data used to run the sensitivity analysis of the r parameter values of algae node . 
+All necessary resources are included in this folder for convenience.
+
+The new r values of algae node used to do the sensitivity analysis are on "NewR.mat" file
+
+To run calculate the new r values:
+1. Run "sensitivite"
+
+
+To run sensitivity analysis follow this steps:
+1. Run "webdriver_torun_Before"
+2. Run webdriver_torun_After"
+	

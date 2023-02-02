@@ -1,9 +1,13 @@
+This file contains the script and data used to run the sensitivity analysis of the Fmax parameter value. 
+All necessary resources are included in this folder for convenience.
+
 The different Fmax values used to do the sensitivity analysis are on "Fmax values.xlsx" file
 To run sensitivity analysis follow this steps:
 
 1. Run "webdriver_torun_Before"
-2. Edit webdriver_torun_After"
+2. Edit "webdriver_torun_After" manually to define the Fmax value to simulate
 	2.1. For each Fmax value, modify the values in:
                           - L12 Add the Fmax value to analyze and run the model
                           - L59 When you change the Fmax value, change the name of the output
-
+3. Run "webdriver_torun_After"
+4. Select the next Fmax value to simulate

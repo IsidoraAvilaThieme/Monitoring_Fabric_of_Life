@@ -1,0 +1,10 @@
+This file contains the script and data used to run the network dynamic presented in the main manuscript, 
+which was permormed under a compliance and non-compliance scenario. All necessary resources are included in this folder for convenience.
+
+To reproduce the network dynamics, you should follow the following steps:
+
+1. Run "webdriver_torun_Before" file
+2. Run webdriver_torun_After" file. Into this file, you manually has to define the fishing scenario to simulate (compliance or non-compliance), run the code. 
+   After that, select the other fishing scenario and run the code. 
+   The fishing scenario can be defined in L4 FishingScenario = "here write the fishing scenario of interest".
+	

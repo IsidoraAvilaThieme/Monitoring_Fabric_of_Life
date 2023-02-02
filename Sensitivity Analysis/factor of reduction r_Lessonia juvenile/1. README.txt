@@ -1,0 +1,13 @@
+This file contains the script and data used to run the sensitivity analysis of the factor of reduction of the r lessonia juvenil node. 
+All necessary resources are included in this folder for convenience.
+
+The factor of reduction values of the r lessonia juvenil used on the sensitivity analysis are on "Rmodificator.mat" file
+
+To run calculate the factor of reduction values:
+1. Run "sensitivite"
+
+
+To run sensitivity analysis follow this steps:
+1. Run "webdriver_torun_Before"
+2. Run "webdriver_torun_After"
+	
